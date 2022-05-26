@@ -1,0 +1,6 @@
+in cmd, type "ex2_bio.exe"
+then space and after this you need to provide 2 arguments:
+1. name of input file
+2. method to solve: 1 - regular, 2 - darvin -, 3 - lamarck
+for example, run the following line in cmd:
+ex2_bio.exe input.txt 3
